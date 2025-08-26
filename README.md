@@ -1,4 +1,4 @@
-## Lista exercícios python
+## Exercícios em Python
 
 Lista feita para fins acadêmicos -> Grupo 4
 
